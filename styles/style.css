@@ -7,9 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-.font-inter{
-    font-family: 'Inter', sans-serif;
-}
+
 /* utilities */
 
 header {
@@ -34,4 +32,27 @@ header {
 }
 .fas{
     color: #E77C40;
+}
+
+/* freequently asked section style */
+.faq-font{
+    font-family: 'Inter', sans-serif;
+}
+.faq-font p{
+    color: #7E848C;
+}
+.border-style{
+    border: 1px grey solid;
+}
+/* rating style */
+.rating h2,h3{
+    color: #363958;
+    font-weight: 700;
+}
+.rating .fas{
+    color: #363958;
+}
+footer{
+    height: 200px;
+    background-color: #111422;
 }
