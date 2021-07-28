@@ -1,0 +1,37 @@
+/* font family  */
+/* poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.font-inter{
+    font-family: 'Inter', sans-serif;
+}
+/* utilities */
+
+header {
+    background-color: #264653;
+}
+.orange-text{
+    color: #E76F51;
+}
+
+.button-style {
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: white;
+}
+.grey-scale{
+    filter: grayscale(100%);
+}
+.rounded-image{
+    border-radius: 50%;
+    width: 149px;
+    height: 149px;
+}
+.fas{
+    color: #E77C40;
+}
