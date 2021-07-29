@@ -1,17 +1,12 @@
 /* font family  */
-/* poppins */
+/* font poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-/* inter */
+/* font inter */
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
+/* utilities */
 body {
     font-family: 'Poppins', sans-serif;
-}
-
-/* utilities */
-
-header {
-    background-color: #264653;
 }
 
 .orange-text {
@@ -24,14 +19,19 @@ header {
     color: white;
 }
 
-.grey-scale {
-    filter: grayscale(100%);
+/* header */
+header {
+    background-color: #264653;
 }
 
-/* header */
 header p {
     font-weight: 300;
     color: #E0E0E0;
+}
+
+/* latest section style */
+.grey-scale {
+    filter: grayscale(100%);
 }
 
 /* clients review */
