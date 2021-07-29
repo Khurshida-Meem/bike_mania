@@ -69,6 +69,11 @@ h3 {
     color: #363958;
 }
 
+/* upcoming product style */
+.bg{
+    background-color: #56889c;
+    color: white;
+}
 /* footer style */
 footer {
     height: 200px;
