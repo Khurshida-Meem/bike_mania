@@ -25,11 +25,18 @@ header {
 .grey-scale{
     filter: grayscale(100%);
 }
+/* header */
+header p{
+    font-weight: 300;
+    color: #E0E0E0;
+}
+/* clients review */
 .rounded-image{
     border-radius: 50%;
     width: 149px;
     height: 149px;
 }
+
 .fas{
     color: #E77C40;
 }
