@@ -13,7 +13,8 @@ body {
 header {
     background-color: #264653;
 }
-.orange-text{
+
+.orange-text {
     color: #E76F51;
 }
 
@@ -22,44 +23,54 @@ header {
     border-radius: 5px;
     color: white;
 }
-.grey-scale{
+
+.grey-scale {
     filter: grayscale(100%);
 }
+
 /* header */
-header p{
+header p {
     font-weight: 300;
     color: #E0E0E0;
 }
+
 /* clients review */
-.rounded-image{
+.rounded-image {
     border-radius: 50%;
     width: 149px;
     height: 149px;
 }
 
-.fas{
+.fas {
     color: #E77C40;
 }
 
 /* freequently asked section style */
-.faq-font{
+.faq-font {
     font-family: 'Inter', sans-serif;
 }
-.faq-font p{
+
+.faq-font p {
     color: #7E848C;
 }
-.border-style{
+
+.border-style {
     border: 1px grey solid;
 }
+
 /* rating style */
-.rating h2,h3{
+.rating h2,
+h3 {
     color: #363958;
     font-weight: 700;
 }
-.rating .fas{
+
+.rating .fas {
     color: #363958;
 }
-footer{
+
+/* footer style */
+footer {
     height: 200px;
     background-color: #111422;
 }
